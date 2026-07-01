@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0161/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說長者音悅經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0531.xml
+    old_id: T14n0531
+hash: sha256:cbbb3229d52a0b37272822ec0665da3e48dcae18fe08ce8bb1fbcf9e261ff6c5
