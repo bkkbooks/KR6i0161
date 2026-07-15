@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0161/v1
 canonical_location: https://kanripo.org/bkk/KR6i0161/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說長者音悅經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0161_000.yaml, hash: 'sha256:cbbb3229d52a0b37272822ec0665da3e48dcae18fe08ce8bb1fbcf9e261ff6c5'}
-  - {seq: 1, filename: KR6i0161_001.yaml, hash: 'sha256:550e1da568b500b3c6873948bd981ccff1fac92a1e8a4acd9987bc95ad508e76'}
+  - {seq: 1, filename: KR6i0161_001.yaml, hash: 'sha256:3f8eaa4d437388fc337e5ba4182de61e19e83161cfd4daa371155f67bc23f2bd'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0161_000.markers.yaml, hash: 'sha256:dc68c9d615c5e5424d03108ee93c06ad6df345f2bd45cf691d9f3adeda045c46'}
-  - {seq: 1, role: markers, filename: assets/KR6i0161_001.markers.yaml, hash: 'sha256:17188a079c3447c660cd86bcb2ef6718299631e0352ad6733ec8a2c24d9561fd'}
+  - {seq: 1, role: markers, filename: assets/KR6i0161_001.markers.yaml, hash: 'sha256:23f7f2cfced47d5b3a8b29e649f437c8a5b5b8951b2ee63cf05e8fa52d0b982e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說長者音悅經
   type: juan
   level: 1
-hash: sha256:0fa3492b81aa5952f4aec405cc9984b2424796e90632a32a3031d8fbd3ee9578
+hash: sha256:7df81ddc5e8d169e376ca5c447b67e710bf8c9f15975ec3efeb4c52848007f01
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
